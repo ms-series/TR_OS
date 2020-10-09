@@ -1,17 +1,16 @@
+  
 [
   {
-    "title": "قيامة أرطغرل",
-    "image": "https://1.bp.blogspot.com/-bwDi4NDrDeA/XwTs-A0ftVI/AAAAAAAAA40/EdtkTJaXDCo-EBcsJJp0LuiqGcieCzzpQCK4BGAsYHg/s320/thumbnail_er.png",
-    "package_name": "com.ms_series.story_of_ertugrul"
-  },
-  {
-    "title": "المؤسس عثمان",
-    "image": "https://1.bp.blogspot.com/-eYFdYbh-Meg/XwTs-0Ipg2I/AAAAAAAAA48/04Ju2lU4EEgXFCjA_tnCwVl5yEsuJ3RgwCK4BGAsYHg/s320/thumbnail_os.png",
-    "package_name": "com.blogspot.appforallusers.osmanar"
-  },
-  {
-    "title": "الطبيب المعجزة",
-    "image": "https://1.bp.blogspot.com/-axruNwGd5js/XwTs-nLt6II/AAAAAAAAA44/TvUss2YaOcscZxUldW99xzFuAXHw6pMswCK4BGAsYHg/s320/thumbnail_md.png",
-    "package_name": "com.blogspot.appforallusers.MucizeDoktor"
+    "url_slider": "https://raw.githubusercontent.com/ms-series/TR_OS/slider/",
+    "url_series": "https://raw.githubusercontent.com/ms-series/TR_OS/series/",
+    "url_share_app": "",
+    "url_privacy_policy": "https://appforallusers.blogspot.com/p/m1.html",
+    "is_my_app_recycler": "true",
+    "is_my_app_menu": "true",
+    "is_download_main_menu": "true",
+    "is_download_drawer_menu": "true",
+    "is_testing_app": "false",
+    "url_new_version": "",
+    "new_version_code": "1"
   }
 ]
